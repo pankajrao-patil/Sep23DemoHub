@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace EF_CodeFirst_WPFDemo
 {
-    //Created on 30/Oct/2020 by Pankaj
+    //Created on 30/Oct/2020 by Pankaj Patil for CG Internals
     public class DonorContext:DbContext
     {
         public DonorContext():base()
