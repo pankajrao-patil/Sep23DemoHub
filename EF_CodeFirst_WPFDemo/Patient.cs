@@ -15,5 +15,7 @@ namespace EF_CodeFirst_WPFDemo
         public int PatientNo { get; set; }
         public string Name { get; set; }
         public string City { get; set; }
+        
+        public int BillAmount { get; set; }
     }
 }
